@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d6a2f9dade4efb11","x":-480,"y":-540,"width":400,"height":400,"color":"4","type":"file","file":"ok/posterwall.canvas"},
+		{"id":"3cab7a53628ed4d4","x":-20,"y":-540,"width":400,"height":400,"type":"file","file":"README.md"},
+		{"id":"5c9363271b5f94b5","x":-480,"y":-100,"width":400,"height":400,"type":"file","file":"Porcupine Tree - Signify (1996) front back album covers.jpg"}
+	],
+	"edges":[]
+}

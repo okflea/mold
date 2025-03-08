@@ -11,14 +11,17 @@
             "id": "5b44bc8ca063a0c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "ok/posterwall.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": -158.92245181322104,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "posterwall"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d4895089a597b1b7",
@@ -173,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87cf93f09e9bf9f4",
+  "active": "5b44bc8ca063a0c3",
   "lastOpenFiles": [
-    "ok",
-    "README.md"
+    "Porcupine Tree - Signify (1996) front back album covers.jpg",
+    "README.md",
+    "ok/posterwall.canvas",
+    "ok"
   ]
 }
